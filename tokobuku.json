@@ -1,0 +1,24 @@
+{
+    "Data Penjualan Toko Buku": {
+        "nama": "Toko Buku Wilis",
+        "pengarang": "Rendra Liye",
+        "alamat": "Jl. Wilis 39 Malang",
+        "koleksiBuku": [
+            {
+                "judul":"Bangun Tidur Terbitlah Lapar",
+                "kategori": "Novel",
+                "harga": 835000
+            },
+            {
+                "judul":"Ibu Peri Penyelamatku",
+                "kategori": "Fiksi",
+                "harga": 35000
+            },
+            {
+                "judul":"Bulan",
+                "kategori": "Fiksi",
+                "harga": 90000
+            }
+        ]
+    }
+}
